@@ -1,19 +1,19 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Sarada Thomas"
+image: "SaradaProfile1.JPG"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://www.linkedin.com/in/saradathomas/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/SaradaThomas"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:saradathomas@gmail.com"
 output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am a designer, author, playwright, vocalist, and anthropologist living in the Willamette Valley.
+
+
+install.packages("markdown")
+
