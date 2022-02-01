@@ -3,7 +3,7 @@ title: "Sarada Thomas"
 image: "SaradaProfile1.JPG"
 links:
   - label: LinkedIn
-    url: "www.linkedin.com/in/saradathomas"
+    url: "https://linkedin.com/in/saradathomas"
   - label: Twitter
     url: "https://twitter.com/saradathomas"
   - label: GitHub
