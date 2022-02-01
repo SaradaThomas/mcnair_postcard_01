@@ -1,9 +1,6 @@
 ---
 title: "Sarada Thomas"
 image: "SaradaProfile1.JPG"
-color1: "#5A59A3"
-color2: "#C66060"
-angle: 130
 links:
   - label: LinkedIn
     url: "www.linkedin.com/in/saradathomas"
@@ -14,7 +11,7 @@ links:
   - label: Email
     url: "mailto:saradathomas@gmail.com"
 output:
-  postcards::onofre
+  postcards::solana
 ---
  
 I am a 5th year undergrad working on concurrent degrees in the Architecture and Anthropology departments at the University of Oregon. I specialize in cultural anthropology and am minoring in Planning, Public Policy, and Management. 
